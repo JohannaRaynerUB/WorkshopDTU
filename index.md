@@ -1,3 +1,6 @@
+[Inspiration.md](inspiration.md)
+
+
 ## Trying this out for the first time.
 _GitHub newbie._
 
